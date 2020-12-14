@@ -1,0 +1,6 @@
+body{
+    background: white;
+}
+p{
+    border: 2px dashed rgb(218, 32, 32);
+}
